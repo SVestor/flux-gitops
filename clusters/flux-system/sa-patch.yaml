@@ -5,4 +5,4 @@ metadata:
   name: kustomize-controller
   namespace: flux-system
   annotations:
-    iam.gke.io/gcp-service-account: kustomize-controller@k8s-k3s-18.iam.gserviceaccount.com
+    iam.gke.io/gcp-service-account: kustomize-controller@k8s-k3s-8.iam.gserviceaccount.com
